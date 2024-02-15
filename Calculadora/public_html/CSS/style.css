@@ -1,0 +1,35 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 25 de ago. de 2023, 10:29:10
+    Author     : aluno
+*/
+
+
+ body{
+     
+    margin-top:200px;
+    text-align: center;
+    background-color: white;
+             
+ }
+ 
+ input{
+     
+    padding:10px 15px;
+    font-size: 12px;
+    border-radius: 12px;
+    margin-top: 5px;
+         
+ }
+ 
+ h1{
+     
+    font-size: 20px;
+    color: black; 
+ }
+ 
+
+ 
